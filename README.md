@@ -1,6 +1,14 @@
 # AdGuard-VPN-XFCE-Genmon-Widget
 A lightweight XFCE Genmon widget for controlling and monitoring AdGuard VPN directly from the panel.
 
+## Screenshot
+
+![AdGuard VPN Widget](Ansicht.png)
+
+## Screenshot
+
+![AdGuard VPN Widget](VPN-Auswahl.png)
+
 ## Features
 
 * Displays the current VPN status directly in the XFCE panel.
