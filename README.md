@@ -109,15 +109,6 @@ Additional locations can easily be added by editing the location list in:
 ```bash
 ~/.local/bin/adguard-vpn-select.sh
 ```
-
-## Screenshot
-
-Example panel display:
-
-```text
-VPN PARIS
-```
-
 ## License
 
 MIT License
